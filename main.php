@@ -2,6 +2,7 @@
 
 require_once('./classes/Human.php');
 require_once('./classes/Enemy.php');
+require_once('./classes/Brave.php');
 
 // インスタンス化
 $tiida = new Human();
